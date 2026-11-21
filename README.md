@@ -1,8 +1,10 @@
-# Parchiss Latam - Descargas Oficiales
+# Parchiss Latam — Descargas Oficiales (v1.0.1)
 
-Este repositorio contiene unicamente los instaladores compilados (.apk y .ipa) para descargar y jugar Parchiss Latam online desde cualquier parte del mundo.
+Descarga la última versión oficial de **Parchiss Latam** o juega directo en tu navegador (iPhone, Android o PC) con actualización automática:
 
-- Portal Oficial de Descarga y Juego Online: https://parchiss-latam-server.onrender.com/descargar
-- Jugar ahora en iPhone / Navegador: https://parchiss-latam-server.onrender.com/jugar/
-- Descargar Android (.apk): https://github.com/HexNomad23/parchiss-latam-downloads/releases/latest/download/ParchissLatam-v1.0.0.apk
-- Descargar iOS (.ipa): https://github.com/HexNomad23/parchiss-latam-downloads/releases/latest/download/ParchissLatam-v1.0.0.ipa
+- **Portal Oficial:** https://parchiss-latam-server.onrender.com/descargar
+- **Jugar en Navegador (auto-actualizable):** https://parchiss-latam-server.onrender.com/jugar/
+- **Android APK (v1.0.1):** https://github.com/HexNomad23/parchiss-latam-downloads/releases/latest/download/ParchissLatam-v1.0.1.apk
+- **iPhone IPA (v1.0.1):** https://github.com/HexNomad23/parchiss-latam-downloads/releases/latest/download/ParchissLatam-v1.0.1.ipa
+
+> **Nota de versión:** El multijugador online exige **v1.0.1** o superior. Las versiones anteriores (1.0.0) solo funcionan en modo Offline.
